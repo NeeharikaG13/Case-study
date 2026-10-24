@@ -1,1 +1,1 @@
-# Case-study
+case study
